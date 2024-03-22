@@ -1,3 +1,3 @@
-print("hai all")
-print("hello")
-print("devops")
+print("Hello Everyone")
+print("i am MG")
+print("Cheers")
